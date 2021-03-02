@@ -13,3 +13,9 @@ djgkglksgsgnkjsgnkjfsn
 # Time tale
 
 This repository contains all the notes taken by [Atul](https://github.com/atuleo/no-README) for the Ligthouse Labs Data Science Bootcamp
+
+# Table of contents
+*week1
+  *day 1
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
